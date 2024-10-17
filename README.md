@@ -1,12 +1,18 @@
-# Gudangku
+# Inventory Management System
 
+**Inventory Management System** is an application designed to assist in the management and monitoring of stock items within an organization. This application allows users to easily add, edit, delete, and monitor inventory efficiently. With a user-friendly interface, the system aims to improve data accuracy and reduce errors in inventory management.
 
+## Key Features
+- **Stock Management**: Easily add, edit, and delete inventory items.
+- **Stock Tracking**: Monitor stock levels in real-time to ensure item availability.
+- **Reporting**: Generate stock reports for analysis and planning.
+- **User Management**: Manage users to restrict access and provide appropriate permissions.
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript (can use frameworks like Bootstrap for responsiveness).
+- **Backend**: PHP (or other programming languages as needed).
+- **Database**: MySQL (or another suitable database).
+- **Framework**: Laravel, CodeIgniter, or other PHP frameworks (if used).
 
 ## Add your files
 
